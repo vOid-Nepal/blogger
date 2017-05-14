@@ -1,3 +1,5 @@
+
+
 /* Table of content
 1.General - This is created general styles and overide some bootstrap classes.
 2.Layout
@@ -290,7 +292,7 @@ p {
     left:0;
     width:100%;
     height:100%;
-    background:#181A1C;
+    background:#4a4a4a;
     position:absolute;
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
